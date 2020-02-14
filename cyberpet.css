@@ -1,0 +1,13 @@
+.pet {
+    position: absolute;
+    top: 15%;
+    left: 15%;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}
+
